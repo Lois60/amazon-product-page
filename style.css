@@ -1,0 +1,26 @@
+body{
+    margin: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   
+}
+
+img{
+    width: 300px;
+    padding-right: 20px;;
+    padding-left: 20px;
+}
+
+.text{
+    margin-top: 30px;
+}
+
+.k-text{
+    margin-left: 25px;
+    color: gray;
+}
